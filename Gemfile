@@ -31,4 +31,4 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "puma"
 gem "rack"
-gem "hanuman"
+#gem "jekyll-theme-hydeout", "~> 3.3"
