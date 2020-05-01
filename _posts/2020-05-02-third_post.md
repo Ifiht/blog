@@ -1,6 +1,9 @@
 ---
 layout: post
 author: ifiht
+title:  "The Third Post"
+date:   2020-05-02 01:49:01 +0300
+categories: statement
 ---
 I will tell you why; so shall my anticipation
 prevent your discovery, and your secrecy to the king
